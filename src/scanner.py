@@ -1,8 +1,8 @@
 # src/scanner.py
 import requests
-from sql_injection import SQLInjectionScanner
-from xss import XSSScanner
-from csrf import CSRFScanner
+from src.sql_injection import SQLInjectionScanner
+from src.xss import XSSScanner
+from src.csrf import CSRFScanner
 
 class WebVulnScanner:
     def __init__(self, target_url):

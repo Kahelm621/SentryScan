@@ -22,8 +22,7 @@ These are simple heuristic checks meant to show the concepts. They are not a rep
 git clone https://github.com/Kahelm621/SentryScan.git
 cd SentryScan
 pip install -r requirements.txt
-cd src
-python scanner.py
+python -m src.scanner
 # Enter the URL to scan when prompted
 ```
 

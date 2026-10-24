@@ -1,4 +1,5 @@
 # src/sql_injection.py
+import requests
 class SQLInjectionScanner:
     def __init__(self, target_url):
         self.target_url = target_url
