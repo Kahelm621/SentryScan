@@ -44,4 +44,4 @@ SentryScan/
 ```
 
 ## License
-See [LICENSE](LICENSE).
+MIT. See [LICENSE](LICENSE).
