@@ -1,5 +1,7 @@
 # SentryScan
 
+[![Tests](https://github.com/Kahelm621/SentryScan/actions/workflows/tests.yml/badge.svg)](https://github.com/Kahelm621/SentryScan/actions/workflows/tests.yml)
+
 A beginner-friendly Python web application vulnerability scanner. It sends simple test requests to a target URL and checks the responses for common signs of SQL injection, cross-site scripting (XSS) and missing CSRF protection.
 
 > ⚠️ **For learning and authorized testing only.** Only scan websites you own or have written permission to test.
