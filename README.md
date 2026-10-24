@@ -45,3 +45,5 @@ SentryScan/
 
 ## License
 MIT. See [LICENSE](LICENSE).
+
+gh auth refresh -h github.com -s workflow
